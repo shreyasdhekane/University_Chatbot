@@ -1,13 +1,8 @@
 {
-  "type": "service_account",
-  "project_id": "university-chatbot-hakk",
-  "private_key_id": "c325ce61ab297e83d6ee946e1a5c75e5164753db",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCQwJ/zNCL1eqJ/\nBNTOPwEP6qhu0foY4qO0vkKQZckINfJcxRSZmJPB9WwfUm8lokm96QlCEDKSrefE\n+7nmRY3mYUB9//vv3xC5+GE7DvyX3o482rJxGH7YuIzLZBJNMgg9Y4P721ffjGTM\niY4SH2UJtoPimY2KCMdL9OKwLe25RW4EmKF2SUylXJTpw/Ia6TkhMdTLmkY/8bEZ\nf0gR4PfY/rO+mYq7JiNnPNLev3ZIlkn+TUEsWufncwGq3Kyr14gZjc9jczVRxwux\njJMaGepke1ULX4eFi1Oe0cPCtabCFoNQUk8jhxGt8y26Zz+lwp44whhF2Ut1wsKW\ncubfHu1XAgMBAAECggEAPbRvOrxR3rT9SgokMRs4d7F/RWZrJ2qNgIHOXEGXddGR\nVCyLAILDEd5tzdhVGwTYTIVnderztAVAFH9+GoQx3jA8zrltiy5asfwIbqWP1amA\nlr5fbMiVYgshsZ4iExgt3QVsANPa3Ke7XFmS33TUnFRaWiE87ceaNW3ZqGKbwOsM\nt4unKjq40G9+Cdy5p2EPDBtwoJmlVRZ6sN7ERk5HqAD94qBXzHiEM0nrc4veRxMo\nil6oYRjIYW2aGnLedZpnNpi2TwHWOeqSvuuyYf8JKsor/JX24rZA/B+STQlpz9qK\nusNBnWcs9pWwQ2dDQ9NEiur8/tP1G/s5XfpTYgOUYQKBgQDErsOrk91S70/kwsKT\n7BijvvHSoyNFS/8UMJj8Q6QnVGr33lVgvLMcuM75b5wXah7aByUeGBFBdsHpYNUz\nAk+ITrGkMFACVd0+DY/7AhWOizIxC/ndO+F34LDNeMBOXbOwbSaUMoH04riZz+PH\nd5a2HZaxmshnyT9aWxYsu5H95wKBgQC8aH6Wldyq3f2HAU8Y0H0VAIIIoIpgPLdy\nRzAD02tDt+6zYo9DlH+S68SvUIUjJrK/NNM9Xxshya2uYu02rENigFo9nvQfzqEV\nxVsj26KS548t2cEHpfA8lC60EWwfpkJOceRe7Mwq00llgupn4wth0qdyoy05MCAQ\nDx+vlq5HEQKBgCq0n7vjkUzutXRAbatcukTjsvI/hesIA0zI+I7dyQjZJZjIZ9Vn\nY6S65AX5G/Vhj21b281bAHQsaxJXejNnLwmzvJKgAt9e8XkFzNt9qlyXEMDhjtFg\nrSYwXXNf4rGhWuDV8mh/RwR7LgYHw7eN2eWVKyFJMHaIlf7yhDAWUi7FAoGAacv/\nsY2LsUMgt2vLv7JrWpzDaBbGPU468Of6lVtl80vYtVCWBCviC11rP8rmSBvV6bq/\nF8pNEQcQCUmxzK6k1C4g/lNA4I+GMxR0nkkaHIX9B5EsbKAIq+vF4gWagpc4ypX3\n2Dn+V9n3cBI4kIeU/6RrtNrebSuSBZKIh3AEgxECgYB/JKi6FrjRJ7zf+dRtjJ+I\nTrmt2QUvfAFyNR1biiRfgIhvRVkKRlSrkeg72JM7sSEja0I7puhEAM7xNsBQToM5\n6hjyLWn2A10A2PLYYk1NkDbvzd6NOzQ5VAcPWnGrNILtxiRmx7cJb/cF1xVNDs+7\nkx+1Ac6DIkGDja+T8KGRHw==\n-----END PRIVATE KEY-----\n",
-  "client_email": "university-chatbot@university-chatbot-hakk.iam.gserviceaccount.com",
-  "client_id": "100554560079943543119",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/university-chatbot%40university-chatbot-hakk.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
+ "IMPORTANT"
+  To get responses from your agent you have to make a dialog flow agent and get its JSON file , which contains API keys 
+  visit https://dialogflow.cloud.google.com/ to make your agent 
+
+  NOTE - make sure u keep the file name same to ensure that the chatbot works perfectly
+  
 }
